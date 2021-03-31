@@ -1,0 +1,49 @@
+h1{
+    font-size: 75px;
+    margin-left: 150px;
+    margin-top: 100px;
+    font-style: italic;
+    color: forestgreen;
+}
+
+h2{
+    margin-left: 150px;
+    color: mediumblue;
+    font-size: 30px;
+}
+
+body{
+    background-image: url(file:///home/apoorv/Downloads/WhatsApp%20Image%202021-03-31%20at%2012.45.44.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+p{
+    width: 550px;
+    margin-left: 150px;
+    font-size: 20px;
+}
+
+a:link {
+    color: blue;
+    margin-left: 150px;
+}
+
+a:visited {
+    color: mediumseagreen;
+}
+
+a:hover {
+    color: black;
+    text-decoration: underline;
+}
+
+a:active {
+    color: yellow;
+}
+
+h3{
+    margin-left: 150px;
+    font-size: 20px;
+    text-shadow: 4px 4px white;
+}
